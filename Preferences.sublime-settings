@@ -1,0 +1,8 @@
+{
+    "font_size": 11,
+	"auto_complete": false,
+	"color_scheme": "Packages/User/My.tmTheme",
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
