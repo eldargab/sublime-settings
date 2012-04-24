@@ -1,10 +1,19 @@
 {
-	"auto_upgrade_last_run": 1332868910,
+	"auto_upgrade_last_run": 1335285737,
 	"installed_packages":
 	[
 		"CoffeeScript",
+		"Jade",
+		"OpenSearchResult",
 		"Package Control",
 		"Shell Turtlestein",
+		"SublimePTY",
+		"Terminal",
 		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"http://wuub.net/sublimepty-alpha.json",
+		"https://github.com/abrookins/OpenSearchResult"
 	]
 }
