@@ -1,0 +1,7 @@
+syntax: glob
+*.pyc
+*.cache
+obj/
+*.exe
+*.sublime-workspace
+*.sublime-project
