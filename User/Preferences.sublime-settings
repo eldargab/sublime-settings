@@ -1,10 +1,15 @@
 {
 	"auto_complete": false,
-	"smart_indent": false,
 	"color_scheme": "Packages/User/My.tmTheme",
-	"font_size": 11,
+	"font_size": 11.0,
 	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeHaskell"
+	],
 	"remember_open_files": false,
+	"smart_indent": false,
 	"tab_size": 2,
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
