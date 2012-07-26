@@ -39,22 +39,52 @@
         </dict>
       </dict>
 
-      <!-- Keyword -->
+      <!-- Keyword #2060A0-->
       <dict>
         <key>name</key>
         <string>Keyword</string>
         <key>scope</key>
-        <string>keyword, variable.language, storage.type</string>
+        <string>keyword.control, keyword.operator.textual, variable.language</string>
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
-          <string>bold</string>
+          <string></string>
           <key>foreground</key>
-          <string>#333</string>
+          <string>#2060A0</string>
         </dict>
       </dict>
 
-      <!-- Built-in constant -->
+      <dict>
+        <key>name</key>
+        <string>Storage</string>
+        <key>scope</key>
+        <string>storage.type</string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string></string>
+          <key>foreground</key>
+          <string>#2060A0</string>
+        </dict>
+      </dict>
+
+      <!-- Entities definition -->
+      <dict>
+        <key>name</key>
+        <string>Entities definition </string>
+        <key>scope</key>
+        <string>entity.name</string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string></string>
+          <key>foreground</key>
+          <string></string>
+        </dict>
+      </dict>
+
+
+      <!-- Built-in constant #0086B3 -->
       <dict>
         <key>name</key>
         <string>Built-in constant</string>
@@ -63,10 +93,11 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#0086B3</string>
+          <string>#008080</string>
         </dict>
       </dict>
 
+<!--  Numbers
       <dict>
         <key>name</key>
         <string>Numbers</string>
@@ -77,7 +108,7 @@
           <key>foreground</key>
           <string>#099</string>
         </dict>
-      </dict>
+      </dict> -->
 
 
       <!-- String #a31515 -->
